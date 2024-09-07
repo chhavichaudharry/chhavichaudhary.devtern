@@ -36,8 +36,6 @@ def speak(text):
     
     pygame.mixer.music.unload()
     os.remove("temp.mp3") 
-
-
     
 
 def process_command(c):
@@ -66,11 +64,6 @@ def process_command(c):
             # speak the headlines
             for article in articles:
                 speak(article['title'])
-
-    
-
-
-
 
 
 if __name__ == "__main__":
