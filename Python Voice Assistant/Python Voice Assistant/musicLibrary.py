@@ -1,6 +1,6 @@
 music = {
-    "stealth": "https://www.youtube.com/watch?v=U47Tr9BB_wE",
-    "march": "https://www.youtube.com/watch?v=Xqeq4b5u_Xw",
+    "dynamite": "https://www.youtube.com/watch?v=Mzk6KkyxXC8?si=JORiUMd5vY8v1PWE",
+    "perfect": "https://www.youtube.com/watch?v=kPhpHvnnn0Q?si=ymE0hE_n27oJU6Mt",
     "skyfall": "https://www.youtube.com/watch?v=DeumyOzKqgI&pp=ygUHc2t5ZmFsbA%3D%3D",
-    "wolf": "https://www.youtube.com/watch?v=ThCH0U6aJpU&list=PLnrGi_-oOR6wm0Vi-1OsiLiV5ePSPs9oF&index=21"
+    "baby": "https://www.youtube.com/watch?v=j8n1pj8RfFs?si=zZrBFclWejwZ1p0K"
 }
